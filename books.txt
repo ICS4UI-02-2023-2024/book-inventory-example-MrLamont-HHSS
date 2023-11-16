@@ -1,0 +1,99 @@
+isbn13,authors,title,average_rating
+9780439023480,Suzanne Collins,The Hunger Games (The Hunger Games #1),4.34
+9780439554930,J.K. Rowling,Harry Potter and the Sorcerer's Stone (Harry Potter #1),4.44
+9780316015840,Stephenie Meyer,Twilight (Twilight #1),3.57
+9780061120080,Harper Lee,To Kill a Mockingbird,4.25
+9780743273560,F. Scott Fitzgerald,The Great Gatsby,3.89
+9780525478810,John Green,The Fault in Our Stars,4.26
+9780618260300,J.R.R. Tolkien,The Hobbit,4.25
+9780316769170,J.D. Salinger,The Catcher in the Rye,3.79
+9781416524790,Dan Brown,Angels & Demons  (Robert Langdon #1),3.85
+9780679783270,Jane Austen,Pride and Prejudice,4.24
+9781594480000,Khaled Hosseini,The Kite Runner,4.26
+9780062024040,Veronica Roth,Divergent (Divergent #1),4.24
+9780451524940,George Orwell,1984,4.14
+9780452284240,George Orwell,Animal Farm,3.87
+9780553296980,Anne Frank,The Diary of a Young Girl,4.1
+9780307269750,Stieg Larsson,The Girl with the Dragon Tattoo (Millennium #1),4.11
+9780439023500,Suzanne Collins,Catching Fire (The Hunger Games #2),4.3
+9780439655480,J.K. Rowling,Harry Potter and the Prisoner of Azkaban (Harry Potter #3),4.53
+9780618346260,J.R.R. Tolkien,The Fellowship of the Ring (The Lord of the Rings #1),4.34
+9780439023510,Suzanne Collins,Mockingjay (The Hunger Games #3),4.03
+9780439358070,J.K. Rowling,Harry Potter and the Order of the Phoenix (Harry Potter #5),4.46
+9780316166680,Alice Sebold,The Lovely Bones,3.77
+9780439064870,J.K. Rowling,Harry Potter and the Chamber of Secrets (Harry Potter #2),4.37
+9780439139600,J.K. Rowling,Harry Potter and the Goblet of Fire (Harry Potter #4),4.53
+9780545010220,J.K. Rowling,Harry Potter and the Deathly Hallows (Harry Potter #7),4.61
+9780307277670,Dan Brown,The Da Vinci Code (Robert Langdon #2),3.79
+9780439785970,J.K. Rowling,Harry Potter and the Half-Blood Prince (Harry Potter #6),4.54
+9780140283330,William Golding,Lord of the Flies,3.64
+9780743477120,William Shakespeare,Romeo and Juliet,3.73
+9780297859380,Gillian Flynn,Gone Girl,4.03
+9780399155340,Kathryn Stockett,The Help,4.45
+9780142000670,John Steinbeck,Of Mice and Men,3.84
+9780739326220,Arthur Golden,Memoirs of a Geisha,4.08
+9781612130290,E.L. James,Fifty Shades of Grey (Fifty Shades #1),3.67
+9780061122420,Paulo Coelho,The Alchemist,3.82
+9780385732550,Lois Lowry,The Giver (The Giver #1),4.12
+9780965818670,Audrey Niffenegger,The Time Traveler's Wife,3.95
+9780553588480,George R.R. Martin,A Game of Thrones (A Song of Ice and Fire #1),4.45
+9780143038410,Elizabeth Gilbert,Eat Pray Love,3.51
+9780786838650,Rick Riordan,The Lightning Thief (Percy Jackson and the Olympians #1),4.23
+9780451529300,Louisa May Alcott,Little Women (Little Women #1),4.04
+9780142437210,Charlotte Brontë,Jane Eyre,4.1
+9780553816720,Nicholas Sparks,The Notebook (The Notebook #1),4.06
+9780770430080,Yann Martel,Life of Pi,3.88
+9781565125600,Sara Gruen,Water for Elephants,4.07
+9780375831000,Markus Zusak,The Book Thief,4.36
+9780307347980,Ray Bradbury,Fahrenheit 451,3.97
+9780316160190,Stephenie Meyer,New Moon (Twilight #2),3.52
+9780060513030,Shel Silverstein,Where the Sidewalk Ends,4.29
+9781416914280,Cassandra Clare,City of Bones (The Mortal Instruments #1),4.12
+9780316160210,Stephenie Meyer,Eclipse (Twilight #3),3.69
+9780375826700,Christopher Paolini,Eragon (The Inheritance Cycle #1),3.86
+9780345391800,Douglas Adams,The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy #1),4.2
+9780060929880,Aldous Huxley,Brave New World,3.97
+9780316067930,Stephenie Meyer,Breaking Dawn (Twilight #4),3.7
+9780142001740,Sue Monk Kidd,The Secret Life of Bees,4.01
+9780142437180,Mark Twain,The Adventures of Huckleberry Finn,3.8
+9780064410940,E.B. White,Charlotte's Web,4.15
+9781400032720,Mark Haddon,The Curious Incident of the Dog in the Night-Time,3.85
+9781594633670,Paula Hawkins,The Girl on the Train,3.88
+9780679879240,Philip Pullman,The Golden Compass (His Dark Materials #1),3.94
+9780393978900,Emily Brontë,Wuthering Heights,3.82
+9780743454540,Jodi Picoult,My Sister's Keeper,4.06
+9780385333850,Kurt Vonnegut Jr.,Slaughterhouse-Five,4.06
+9780446675540,Margaret Mitchell,Gone with the Wind,4.28
+9781594489500,Khaled Hosseini,A Thousand Splendid Suns,4.34
+9780671027350,Stephen Chbosky,The Perks of Being a Wallflower,4.21
+9780007442910,Veronica Roth,Insurgent (Divergent #2),4.07
+9780812550700,Orson Scott Card,Ender's Game (Ender's Saga #1),4.3
+9780141439470,Mary Wollstonecraft Shelley,Frankenstein,3.75
+9780450040180,Stephen King,The Shining (The Shining #1),4.17
+9780316068050,Stephenie Meyer,The Host (The Host #1),3.84
+9780142402510,John Green,Looking for Alaska,4.09
+9780140280100,Helen Fielding,Bridget Jones's Diary (Bridget Jones #1),3.75
+9780141439660,Jane Austen,Sense and Sensibility,4.06
+9780439244190,Louis Sachar,Holes (Holes #1),3.93
+9780307275550,Lauren Weisberger,The Devil Wears Prada (The Devil Wears Prada #1),3.7
+9780143039950,Homer,The Odyssey,3.73
+9780156012200,Antoine de Saint-Exupéry,The Little Prince,4.28
+9780743247540,Jeannette Walls,The Glass Castle,4.24
+9780385486800,Jon Krakauer,Into the Wild,3.94
+9780141439600,Charles Dickens,A Tale of Two Cities,3.81
+9780307348140,Michael Crichton,Jurassic Park (Jurassic Park #1),3.96
+9780060256650,Shel Silverstein,The Giving Tree,4.38
+9780385338610,John Grisham,A Time to Kill,4.03
+9780374500020,Elie Wiesel,Night (The Night Trilogy #1),4.3
+9780142414930,John Green,Paper Towns,3.88
+9780345418260,William Goldman,The Princess Bride ,4.25
+9780140385720,S.E. Hinton,The Outsiders,4.06
+9780385737940,James Dashner,The Maze Runner (Maze Runner #1),4.02
+9780061234000,Steven D. Levitt,Freakonomics: A Rogue Economist Explores the Hidden Side of Everything (Freakonomics #1),3.93
+9780517189600,Frances Hodgson Burnett,The Secret Garden,4.12
+9780060531040,Gabriel García Márquez,One Hundred Years of Solitude,4.04
+9780375751520,Oscar Wilde,The Picture of Dorian Gray,4.06
+9780345803500,E.L. James,Fifty Shades Freed (Fifty Shades #3),3.88
+9780393970130,Bram Stoker,Dracula,3.98
+9780307269980,Stieg Larsson,The Girl Who Played with Fire (Millennium #2),4.22
+9781612130580,E.L. James,Fifty Shades Darker (Fifty Shades #2),3.87
