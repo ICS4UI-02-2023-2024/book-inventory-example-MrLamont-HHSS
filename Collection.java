@@ -67,6 +67,18 @@ public class Collection {
         return null;
     }
 
+    public Book searchByTitle(String title){
+        // go through all books
+        for(Book b: this.books){
+            // do the isbn's match?
+            if(b.getTitle().equals(title)){
+                return b;
+            }
+        }
+        // no book found
+        return null;
+    }
+
     public ArrayList<Book> search(String author){
         // create the initial blank list
         ArrayList<Book> bookList = new ArrayList<>();

@@ -16,7 +16,6 @@ isbn13,authors,title,average_rating
 9780307269750,Stieg Larsson,The Girl with the Dragon Tattoo (Millennium #1),4.11
 9780439023500,Suzanne Collins,Catching Fire (The Hunger Games #2),4.3
 9780439655480,J.K. Rowling,Harry Potter and the Prisoner of Azkaban (Harry Potter #3),4.53
-9780618346260,J.R.R. Tolkien,The Fellowship of the Ring (The Lord of the Rings #1),4.34
 9780439023510,Suzanne Collins,Mockingjay (The Hunger Games #3),4.03
 9780439358070,J.K. Rowling,Harry Potter and the Order of the Phoenix (Harry Potter #5),4.46
 9780316166680,Alice Sebold,The Lovely Bones,3.77
